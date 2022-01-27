@@ -1,0 +1,52 @@
+'Jan Schmitt', 292.3
+'Stolle', -19.2
+'Sean', 26.1
+'Patrick', 14.9
+'Rene', 22.1
+'Gerit', -18.6
+'Kai', 7.2
+'Bass', -14.4
+'Daniel', -22.8
+'Flo T.', -0.7
+'Svenja', 1.6
+'Hannes', -7
+'Flo L.', -10.45
+'Kirsten', 0
+'Carina', 0
+'Nicole', -0.65
+'Shona', -11.05
+'Svantje', 3.9
+'Oli J.', -1.3
+'Lea', -5.1
+'Martin J.', -4.95
+'Simon B.', 0
+'Sara', 7.55
+'Viki', -2.6
+'Fe', 0
+'Jennick', -21.2
+'Maike', -0.65
+'Lynn', -8.5
+'Dara', 39.9
+'Niklas', 0
+'Nele', 0
+'Sophia', -6.25
+'Vivien', -6.25
+'Julia', -0.65
+'Linus', 7.75
+'Julien', -26.9
+'Nick', -1.6
+'Chiara', -0.8
+'Luana', 13.75
+'Maren', -3.55
+'Manuel', -34.4
+'Martin W.', -9.6
+'Nele H.', -9.7
+'Carina G.', -15.6
+'Max', 10
+'Benni', -0.65
+'Johan', -3.55
+'Miriam', -1.45
+'Ida', -0.65
+'Jana', -11.7
+'David', -0.8
+{'Jan Schmitt': {'items': {}, 'display_name': 'Jan Schmitt', 'credit': 292.3}, 'Stolle': {'items': {}, 'display_name': 'Stolle', 'credit': -19.2}, 'Sean': {'items': {}, 'display_name': 'Sean', 'credit': 26.1}, 'Patrick': {'items': {}, 'display_name': 'Patrick', 'credit': 14.9}, 'Rene': {'items': {}, 'display_name': 'Rene', 'credit': 22.1}, 'Gerit': {'items': {}, 'display_name': 'Gerit', 'credit': -18.6}, 'Kai': {'items': {}, 'display_name': 'Kai', 'credit': 7.2}, 'Bass': {'items': {}, 'display_name': 'Bass', 'credit': -14.4}, 'Daniel': {'items': {}, 'display_name': 'Daniel', 'credit': -22.8}, 'Flo T.': {'items': {}, 'display_name': 'Flo T.', 'credit': -0.7}, 'Svenja': {'items': {}, 'display_name': 'Svenja', 'credit': 1.6}, 'Hannes': {'items': {}, 'display_name': 'Hannes', 'credit': -7.0}, 'Flo L.': {'items': {}, 'display_name': 'Flo L.', 'credit': -10.45}, 'Kirsten': {'items': {}, 'display_name': 'Kirsten', 'credit': 0.0}, 'Carina': {'items': {}, 'display_name': 'Carina', 'credit': 0.0}, 'Nicole': {'items': {}, 'display_name': 'Nicole', 'credit': -0.65}, 'Shona': {'items': {}, 'display_name': 'Shona', 'credit': -11.05}, 'Svantje': {'items': {}, 'display_name': 'Svantje', 'credit': 3.9}, 'Oli J.': {'items': {}, 'display_name': 'Oli J.', 'credit': -1.3}, 'Lea': {'items': {}, 'display_name': 'Lea', 'credit': -5.1}, 'Martin J.': {'items': {}, 'display_name': 'Martin J.', 'credit': -4.95}, 'Simon B.': {'items': {}, 'display_name': 'Simon B.', 'credit': 0.0}, 'Sara': {'items': {}, 'display_name': 'Sara', 'credit': 7.55}, 'Viki': {'items': {}, 'display_name': 'Viki', 'credit': -2.6}, 'Fe': {'items': {}, 'display_name': 'Fe', 'credit': 0.0}, 'Jennick': {'items': {}, 'display_name': 'Jennick', 'credit': -21.2}, 'Maike': {'items': {}, 'display_name': 'Maike', 'credit': -0.65}, 'Lynn': {'items': {}, 'display_name': 'Lynn', 'credit': -8.5}, 'Dara': {'items': {}, 'display_name': 'Dara', 'credit': 39.9}, 'Niklas': {'items': {}, 'display_name': 'Niklas', 'credit': 0.0}, 'Nele': {'items': {}, 'display_name': 'Nele', 'credit': 0.0}, 'Sophia': {'items': {}, 'display_name': 'Sophia', 'credit': -6.25}, 'Vivien': {'items': {}, 'display_name': 'Vivien', 'credit': -6.25}, 'Julia': {'items': {}, 'display_name': 'Julia', 'credit': -0.65}, 'Linus': {'items': {}, 'display_name': 'Linus', 'credit': 7.75}, 'Julien': {'items': {}, 'display_name': 'Julien', 'credit': -26.9}, 'Nick': {'items': {}, 'display_name': 'Nick', 'credit': -1.6}, 'Chiara': {'items': {}, 'display_name': 'Chiara', 'credit': -0.8}, 'Luana': {'items': {}, 'display_name': 'Luana', 'credit': 13.75}, 'Maren': {'items': {}, 'display_name': 'Maren', 'credit': -3.55}, 'Manuel': {'items': {}, 'display_name': 'Manuel', 'credit': -34.4}, 'Martin W.': {'items': {}, 'display_name': 'Martin W.', 'credit': -9.6}, 'Nele H.': {'items': {}, 'display_name': 'Nele H.', 'credit': -9.7}, 'Carina G.': {'items': {}, 'display_name': 'Carina G.', 'credit': -15.6}, 'Max': {'items': {}, 'display_name': 'Max', 'credit': 10.0}, 'Benni': {'items': {}, 'display_name': 'Benni', 'credit': -0.65}, 'Johan': {'items': {}, 'display_name': 'Johan', 'credit': -3.55}, 'Miriam': {'items': {}, 'display_name': 'Miriam', 'credit': -1.45}, 'Ida': {'items': {}, 'display_name': 'Ida', 'credit': -0.65}, 'Jana': {'items': {}, 'display_name': 'Jana', 'credit': -11.7}, 'David': {'items': {}, 'display_name': 'David', 'credit': -0.8}}

@@ -1,0 +1,8 @@
+'Veltins', 0.82, 20
+'Astra Rakete', 0.85, 27
+'Schöfferhofer Grapefruit', 0.81, 12
+'Coca Cola 1l', 1.20, 12
+'Fanta 1l', 1.20, 12
+'Sprite 1l', 1.20, 12
+'Astra Urtyp', 0.60, 27
+'Gerolsteiner 1l', 0.70, 12
